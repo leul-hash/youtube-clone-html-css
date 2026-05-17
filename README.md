@@ -10,3 +10,5 @@ A responsive youtube homepage clone built using HTML and CSS.
 -CSS
 ## Purpose
 This project was created to practice front-end web development skills and improve my understanding of webpage structure and styling.
+## preview
+![My project](screenshot.png)
